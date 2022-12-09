@@ -6,7 +6,7 @@
 * 🌱 Data Scientists.
 * 👯 Looking to colaborate with other content Data analysts and Data scientists.
 * 📢 Love to teach and inspire.
-* 🔭 Learning MERN and gain experience.
+* 🔭 Learning Data Science and gain experience.
 
 
 # ⚙️ GitHub Analytics
@@ -87,6 +87,6 @@
 # 🤝🏻 Connect with Me
 
 <a href="mailto:hassanjaved917127@gmail.com">![hassanjaved917127@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/hassan-javed-4b9930168">![Hasaan Javed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/hamza-malik-18b440207/">![hamza malik](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/profile.php?id=100021820246297">![Hasaan Javed](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/hassanjaved917127">![Hasaan Javed](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
