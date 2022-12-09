@@ -7,25 +7,25 @@
 * 👯 Looking to colaborate with other content Data analysts and Data scientists.
 * 📢 Love to teach and inspire.
 * 🔭 Learning Data Science and gain experience.
-* :sunglasses:  Like to durty my hands with data.
+* :sunglasses:  Like to get my hands dirty with data.
 
 
 # ⚙️ GitHub Analytics
 
 
-<a href="https://github.com/hassan883">
-  <img align="Center" width="420" src="https://github-readme-stats.vercel.app/api?username=hassan883&show_icons=true&theme=algolia" />
+<a href="https://github.com/hamzamalik919">
+  <img align="Center" width="420" src="https://github-readme-stats.vercel.app/api?username=hamzamalik919&show_icons=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/hassan883">
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan883&layout=compact&theme=algolia&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
+<a href="https://github.com/hamzamalik919">
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamalik919&layout=compact&theme=algolia&langs_count=10&https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <br>
 </br>
 
-<a href="https://github.com/hassan883">
-  <img height="300" width="780" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan883&theme=algolia&https://github.com/DenverCoder1/github-readme-streak-stats" />
+<a href="https://github.com/hamzamalik919">
+  <img height="300" width="780" align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalik919&theme=algolia&https://github.com/DenverCoder1/github-readme-streak-stats" />
 </a>
 
 <h2><i>💻 Tech Stack</i></h2>
