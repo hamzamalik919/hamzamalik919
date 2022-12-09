@@ -7,7 +7,7 @@
 * 👯 Looking to colaborate with other content Data analysts and Data scientists.
 * 📢 Love to teach and inspire.
 * 🔭 Learning Data Science and gain experience.
-* Like to durty my hands with data.
+* :sunglasses:  Like to durty my hands with data.
 
 
 # ⚙️ GitHub Analytics
